@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react';
 import './AboutUs.scss';
 
 // import phoneImage from '../../assets/Images/Page-2.png';
-import phoneImage from '../../assets/Images/Page-2.JPEG';
+import phoneImage from '../../assets/Images/Page-2.jpeg';
 
 const AboutUs = () => {
     const sectionRef = useRef(null);
