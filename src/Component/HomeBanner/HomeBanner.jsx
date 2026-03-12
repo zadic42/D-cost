@@ -4,7 +4,7 @@ import './HomeBanner.scss';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import bannerImage1 from '../../assets/Images/Page-2.JPEG';
+import bannerImage1 from '../../assets/Images/Page-2.jpeg';
 import bannerImage2 from '../../assets/Images/PAGE 1.png';
 
 
