@@ -217,6 +217,7 @@ $transition-smooth: cubic-bezier(0.25, 0.8, 0.25, 1);
                     margin: 0;
                     font-size: 14px;
                     font-weight: 700;
+                    font-family: 'Ubuntu', sans-serif;
                     letter-spacing: 3px;
                     color: #555;
                 }
@@ -229,6 +230,7 @@ $transition-smooth: cubic-bezier(0.25, 0.8, 0.25, 1);
                 color: $brand-dark-pink;
                 margin: 0 0 20px 0;
                 letter-spacing: 0px;
+                font-family: 'Ubuntu', sans-serif;
 
                 &.glow-text .text-pink {
                     text-shadow: 0 0 25px rgba(230, 0, 92, 0.2);
@@ -258,6 +260,7 @@ $transition-smooth: cubic-bezier(0.25, 0.8, 0.25, 1);
                 margin: 0 0 30px 0;
                 max-width: 480px;
                 font-weight: 400;
+                font-family: 'Ubuntu', sans-serif;
             }
 
             .premium-btn {
@@ -271,6 +274,7 @@ $transition-smooth: cubic-bezier(0.25, 0.8, 0.25, 1);
                 border-radius: 50px;
                 font-size: 15px;
                 font-weight: 600;
+                font-family: 'Ubuntu', sans-serif;
                 letter-spacing: 1px;
                 text-transform: uppercase;
                 cursor: pointer;
